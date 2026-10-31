@@ -6,8 +6,6 @@ A polished multi-page site for a fictional Portuguese-Mediterranean restaurant i
 
 [Live preview](https://ruvexel.vercel.app/p/the-kitchen/) · [Ruvexel studio](https://ruvexel.vercel.app/) · [Request a paid backend](https://ruvexel.vercel.app/contact)
 
-> Preview is hosted on the Ruvexel studio domain after this repo is imported in **Admin → Projects** (host ID: `the-kitchen`).
-
 ---
 
 ## What’s included
